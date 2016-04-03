@@ -1,8 +1,9 @@
 # kosmtik-magnacarto
 
 Support for the Go implementation of CartoCSS ([Magnacarto](https://github.com/omniscale/magnacarto))
-for Kosmtik. This implementation is available as a [native extension](https://github.com/gmgeo/node-magnacarto) for Node.js.
-Currently the native extension is available for Linux and MacOS X systems only and is still considered experimental.
+for [Kosmtik](https://github.com/kosmtik/kosmtik). This implementation is available as a
+[native extension](https://github.com/gmgeo/node-magnacarto) for Node.js. Currently the native extension is available
+for Linux and MacOS X systems only and is still considered experimental.
 
 Magnacarto is much faster than Carto, but may not support the full range of features. However, the feature set is very
 close to the JavaScript reference implementation.
