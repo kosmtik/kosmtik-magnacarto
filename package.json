@@ -1,0 +1,33 @@
+{
+  "name": "kosmtik-magnacarto",
+  "version": "0.1.0",
+  "description": "Kosmtik plugin to support Magnacarto renderer",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmgeo/kosmtik-magnacarto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gmgeo/kosmtik-magnacarto/issues"
+  },
+  "homepage": "https://github.com/gmgeo/kosmtik-magnacarto",
+  "keywords": [
+    "magnacarto",
+    "kosmtik",
+    "render",
+    "cartocss"
+  ],
+  "author": "Michael Glanznig",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.7.0",
+    "magnacarto": "^0.3.2",
+    "semver": "^5.1.0"
+  }
+}
