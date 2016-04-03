@@ -11,7 +11,8 @@ close to the JavaScript reference implementation.
 
 Due to the internal use of Go vs. JavaScript Magnacarto is much faster in parsing complex stylesheets.
 For [openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto) the difference is as large
-as **1.24s** for Magnacarto vs. **10.08s** for Carto (January 2016).
+as **1.24s** for Magnacarto vs. **10.08s** for Carto on a machine with Intel Core i5-4300U, Linux x64
+and 12 GB RAM (January 2016).
 
 ## Install
 
