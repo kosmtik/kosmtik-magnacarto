@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gmgeo/kosmtik-magnacarto.git"
+    "url": "https://github.com/kosmtik/kosmtik-magnacarto.git"
   },
   "bugs": {
-    "url": "https://github.com/gmgeo/kosmtik-magnacarto/issues"
+    "url": "https://github.com/kosmtik/kosmtik-magnacarto/issues"
   },
-  "homepage": "https://github.com/gmgeo/kosmtik-magnacarto",
+  "homepage": "https://github.com/kosmtik/kosmtik-magnacarto",
   "keywords": [
     "magnacarto",
     "kosmtik",
